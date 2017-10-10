@@ -1,5 +1,6 @@
 let webpack = require('webpack');
 let path = require('path');
+let WatchIgnorePlugin = require('watch-ignore-webpack-plugin');
 
 let BUILD_DIR = path.resolve(__dirname, 'src/public');
 let APP_DIR = path.resolve(__dirname, 'src/app/jsx');
@@ -42,7 +43,15 @@ module.exports = {
         new webpack.ProvidePlugin({
             jQuery: "jquery",
             $: "jquery"
-        })
-    ]
-    // ,watch:true
+        }),
+        new WatchIgnorePlugin([
+            path.resolve(__dirname, './node_modules/'),
+            path.resolve(__dirname, './src/app/js/')
+        ])
+    ],
+    watch:true,
+    watchOptions: {
+        aggregateTimeout: 300,
+        poll:1000
+    }
 };

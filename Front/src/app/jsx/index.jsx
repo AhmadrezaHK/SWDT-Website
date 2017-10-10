@@ -6,7 +6,7 @@ import '../css/app.css'
 class Kir extends React.Component{
     render(){
         return(
-            <h1>Kir bokhor</h1>
+            <h1>KIR BOKHOR</h1>
         )
     }
 }
