@@ -2,10 +2,16 @@ let webpack = require('webpack');
 let path = require('path');
 
 let BUILD_DIR = path.resolve(__dirname, 'src/public');
-let APP_DIR = path.resolve(__dirname, 'src/app');
+let APP_DIR = path.resolve(__dirname, 'src/app/jsx');
+let JS_DIR = path.resolve(__dirname, 'src/app/js');
+let ENTRY = [
+                    JS_DIR + '/what-input.js',
+                    JS_DIR + '/foundation.min.js',
+                    APP_DIR + '/index.jsx'
+            ];
 
 module.exports = {
-    entry: [APP_DIR + '/index.jsx'],
+    entry: ENTRY,
     output: {
         path: BUILD_DIR,
         filename: 'bundle.js'
@@ -32,5 +38,11 @@ module.exports = {
             }
         ]
     },
-    watch:true
+    plugins: [
+        new webpack.ProvidePlugin({
+            jQuery: "jquery",
+            $: "jquery"
+        })
+    ]
+    // ,watch:true
 };
