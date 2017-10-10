@@ -33,9 +33,8 @@ module.exports = {
                 loader: 'json-loader'
             },
             {
-                test: /\.(jpg|png|svg)$/,
-                loader: 'file-loader',
-                include:APP_DIR + '/img'
+                test: /\.(png|jpg|ttf|woff|woff2|eot|svg)$/,
+                loader: 'url-loader'
             }
         ]
     },

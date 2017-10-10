@@ -1,12 +1,14 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import '../css/foundation.min.css'
-import '../css/app.css'
+import '../scss/app.css'
 
-class Kir extends React.Component{
+class Hello extends React.Component{
     render(){
         return(
-            <h1>KIR BOKHOR</h1>
+            <div>
+                <h1>Hello World!</h1>
+            </div>
         )
     }
 }
@@ -14,6 +16,6 @@ class Kir extends React.Component{
 $(document).foundation();
 
 ReactDOM.render(
-    <Kir/>,
-    document.getElementById('kir')
+    <Hello/>,
+    document.getElementById('Hello')
 );
