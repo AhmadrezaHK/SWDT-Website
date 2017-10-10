@@ -2,18 +2,66 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c70cd0c2-1f32-4e51-b2f0-f35cb6a30488" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/IRANSansWeb.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/IRANSansWeb.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/img/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Ahmadreza_HK.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/scss/app.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/IRANSans/eot/IRANSansWeb.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/IRANSans/eot/IRANSansWeb_Bold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/IRANSans/eot/IRANSansWeb_Light.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/IRANSans/eot/IRANSansWeb_Medium.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/IRANSans/eot/IRANSansWeb_UltraLight.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/IRANSans/ttf/IRANSansWeb.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/IRANSans/ttf/IRANSansWeb_Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/IRANSans/ttf/IRANSansWeb_Light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/IRANSans/ttf/IRANSansWeb_Medium.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/IRANSans/ttf/IRANSansWeb_UltraLight.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/IRANSans/woff/IRANSansWeb.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/IRANSans/woff/IRANSansWeb_Bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/IRANSans/woff/IRANSansWeb_Light.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/IRANSans/woff/IRANSansWeb_Medium.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/IRANSans/woff/IRANSansWeb_UltraLight.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/IRANSans/woff2/IRANSansWeb.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/IRANSans/woff2/IRANSansWeb_Bold.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/IRANSans/woff2/IRANSansWeb_Light.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/IRANSans/woff2/IRANSansWeb_Medium.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/IRANSans/woff2/IRANSansWeb_UltraLight.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/font-awesome-4.7.0/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/font-awesome-4.7.0/HELP-US-OUT.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/font-awesome-4.7.0/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/font-awesome-4.7.0/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/font-awesome-4.7.0/less/animated.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/font-awesome-4.7.0/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/font-awesome-4.7.0/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/font-awesome-4.7.0/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/font-awesome-4.7.0/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/font-awesome-4.7.0/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/font-awesome-4.7.0/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/font-awesome-4.7.0/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/font-awesome-4.7.0/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/font-awesome-4.7.0/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/font-awesome-4.7.0/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/font-awesome-4.7.0/less/screen-reader.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/font-awesome-4.7.0/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/font-awesome-4.7.0/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/font-awesome-4.7.0/scss/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/font-awesome-4.7.0/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/font-awesome-4.7.0/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/font-awesome-4.7.0/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/font-awesome-4.7.0/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/font-awesome-4.7.0/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/font-awesome-4.7.0/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/font-awesome-4.7.0/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/font-awesome-4.7.0/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/font-awesome-4.7.0/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/font-awesome-4.7.0/scss/_screen-reader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/font-awesome-4.7.0/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/font-awesome-4.7.0/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/font-awesome-4.7.0/scss/font-awesome.scss" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Front/src/app/font/IRANSansWeb.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Front/src/app/font/IRANSansWeb.woff" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Front/package.json" afterPath="$PROJECT_DIR$/Front/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Front/src/app/css/app.css" afterPath="$PROJECT_DIR$/Front/src/app/css/app.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Front/src/app/jsx/index.jsx" afterPath="$PROJECT_DIR$/Front/src/app/jsx/index.jsx" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Front/src/main.html" afterPath="$PROJECT_DIR$/Front/src/main.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Front/webpack.config.js" afterPath="$PROJECT_DIR$/Front/webpack.config.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -77,11 +125,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Front/src/app/scss/app.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="font-awesome.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Front/src/app/font/font-awesome-4.7.0/css/font-awesome.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -91,7 +149,7 @@
         <entry file="file://$PROJECT_DIR$/Front/src/app/css/app.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="24">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -194,6 +252,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="swdt" type="b2602c69:ProjectViewProjectNode" />
+              <item name="swdt" type="462c0819:PsiDirectoryNode" />
+              <item name="Front" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="font" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -249,7 +315,7 @@
       <workItem from="1507630990629" duration="2477000" />
       <workItem from="1507647451744" duration="1655000" />
       <workItem from="1507649718873" duration="810000" />
-      <workItem from="1507651241864" duration="2446000" />
+      <workItem from="1507651241864" duration="2612000" />
     </task>
     <task id="LOCAL-00001" summary="add foundation">
       <created>1507626194984</created>
@@ -279,24 +345,30 @@
       <option name="project" value="LOCAL" />
       <updated>1507644542383</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add url-loader and SCSS">
+      <created>1507653732862</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1507653732863</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14648000" />
+    <option name="totallyTimeSpent" value="14814000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22470239" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22470239" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -318,7 +390,8 @@
     <MESSAGE value="add jsx" />
     <MESSAGE value="add jquery" />
     <MESSAGE value="fix webpack watch" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix webpack watch" />
+    <MESSAGE value="add url-loader and SCSS" />
+    <option name="LAST_COMMIT_MESSAGE" value="add url-loader and SCSS" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -534,7 +607,7 @@
     <entry file="file://$PROJECT_DIR$/Front/src/app/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -574,7 +647,15 @@
     <entry file="file://$PROJECT_DIR$/Front/src/app/scss/app.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Front/src/app/font/font-awesome-4.7.0/css/font-awesome.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
