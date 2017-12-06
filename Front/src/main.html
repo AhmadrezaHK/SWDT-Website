@@ -5,9 +5,45 @@
     <title>swdt</title>
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="app/font/font-awesome-4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="app/scss/app.css">
+    <link rel="stylesheet" type="text/css" href="app/css/base.css"/>
 </head>
 <body>
-<div id="Hello"></div>
+<div id="main_container"></div>
 <script src="public/bundle.js"></script>
+<script src="app/js/jquery.js"></script>
+<script src="app/js/honeycombs.js"></script>
+<script>
+    $(document).ready(function() {
+        $('.honeycombs').honeycombs({
+            combWidth:295,
+            margin: -25,
+            threshold: 3
+        });
+    });
+</script>
+<script src="app/js/imagesloaded.pkgd.min.js"></script>
+<script src="app/js/anime.min.js"></script>
+<script src="app/js/demo1.js"></script>
+<script>
+    function initMap() {
+        var uluru = {lat: 35.7996603, lng: 51.3955073};
+        var map = new google.maps.Map(document.querySelector('.map'), {
+            zoom: 17,
+            center: uluru
+        });
+        var marker = new google.maps.Marker({
+            position: uluru,
+            map: map,
+
+        });
+        map.setOptions({scrollwheel: false});
+
+    }
+
+</script>
+<script async="" defer="" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA20MqunLD2P9La9bfrgmsMPsm0dmlXxws&amp;callback=initMap">
+</script>
 </body>
 </html>

@@ -1,0 +1,182 @@
+[
+  {
+    "name" : "مهدی فاطمیان",
+    "prof" : "Full-stack Developer",
+    "SN" : {
+      "linkedin" : "",
+      "twitter" : "",
+      "instagram" : "",
+      "facebook" : ""
+    },
+    "id" : "mahdi_fatemian",
+    "img" : "app/img/fatemian.jpg"
+  },
+  {
+    "name" : "محمد زمان زاده",
+    "prof" : "Back-end Developer",
+    "SN" : {
+      "linkedin" : "",
+      "twitter" : "",
+      "instagram" : "",
+      "facebook" : ""
+    },
+    "id" : "mohammad_zamanzade",
+    "img" : "./app/img/zamanzade.jpg"
+  },
+  {
+    "name" : "مرتضی حسینی",
+    "prof" : "Back-end Developer",
+    "SN" : {
+      "linkedin" : "",
+      "twitter" : "",
+      "instagram" : "",
+      "facebook" : ""
+    },
+    "id" : "morteza_hoseini",
+    "img" : "app/img/morteza.jpg"
+  },
+  {
+    "name" : "سجاد شاهی",
+    "prof" : "Front-end Developer",
+    "SN" : {
+      "linkedin" : "",
+      "twitter" : "",
+      "instagram" : "",
+      "facebook" : ""
+    },
+    "id" : "sajjad_shahi",
+    "img" : "app/img/shahi.jpg"
+  },
+  {
+    "name" : "بردیا ابهری",
+    "prof" : "Back-end Developer",
+    "SN" : {
+      "linkedin" : "",
+      "twitter" : "",
+      "instagram" : "",
+      "facebook" : ""
+    },
+    "id" : "bardia_abhari",
+    "img" : "app/img/bardia.jpg"
+  },
+  {
+    "name" : "احمدرضا حسینخانی",
+    "prof" : "Front-end Developer",
+    "SN" : {
+      "linkedin" : "",
+      "twitter" : "",
+      "instagram" : "",
+      "facebook" : ""
+    },
+    "id" : "ahmadreza_hoseinkhani",
+    "img" : "app/img/ahmadreza.jpg"
+  },
+  {
+    "name" : "مسعود محرمی",
+    "prof" : "Designer",
+    "SN" : {
+      "linkedin" : "",
+      "twitter" : "",
+      "instagram" : "",
+      "facebook" : ""
+    },
+    "id" : "masud_moharrami",
+    "img" : "app/img/masud.jpg"
+  },
+  {
+    "name" : "مصطفی شاه حسینی",
+    "prof" : "Designer",
+    "SN" : {
+      "linkedin" : "",
+      "twitter" : "",
+      "instagram" : "",
+      "facebook" : ""
+    },
+    "id" : "mostafa_shahhoseini",
+    "img" : "app/img/mostafa.jpg"
+  },
+  {
+    "name" : "محسن شاهوردی",
+    "prof" : "Front-end Developer",
+    "SN" : {
+      "linkedin" : "",
+      "twitter" : "",
+      "instagram" : "",
+      "facebook" : ""
+    },
+    "id" : "mohsen_shahverdi",
+    "img" : "app/img/mohsen.jpg"
+  },
+  {
+    "name" : "کیوان کامبخش",
+    "prof" : "Back-end Developer",
+    "SN" : {
+      "linkedin" : "",
+      "twitter" : "",
+      "instagram" : "",
+      "facebook" : ""
+    },
+    "id" : "keyvan_kambakhsh",
+    "img" : "app/img/kambakhsh.jpg"
+  },
+  {
+    "name" : "عرفان بهاروند",
+    "prof" : "Back-end Developer",
+    "SN" : {
+      "linkedin" : "",
+      "twitter" : "",
+      "instagram" : "",
+      "facebook" : ""
+    },
+    "id" : "erfan_baharvand",
+    "img" : "app/img/baharvand.jpg"
+  },
+  {
+    "name" : "محمد عباس یزدی",
+    "prof" : "Front-end Developer",
+    "SN" : {
+      "linkedin" : "",
+      "twitter" : "",
+      "instagram" : "",
+      "facebook" : ""
+    },
+    "id" : "mohammad_abbasyazdi",
+    "img" : "app/img/abbasyazdi.jpg"
+  },
+  {
+    "name" : "محمد صادق",
+    "prof" : "Full-stack Developer",
+    "SN" : {
+      "linkedin" : "",
+      "twitter" : "",
+      "instagram" : "",
+      "facebook" : ""
+    },
+    "id" : "mohammad_sadegh",
+    "img" : "app/img/mohammad_sadegh.jpg"
+  },
+  {
+    "name" : "امیر محمد محسنی",
+    "prof" : "Back-end Developer",
+    "SN" : {
+      "linkedin" : "",
+      "twitter" : "",
+      "instagram" : "",
+      "facebook" : ""
+    },
+    "id" : "amirmohammad_mohseni",
+    "img" : "app/img/amirmohammad.jpg"
+  },
+  {
+    "name" : "دکتر علی اکبری",
+    "prof" : "هیئت علمی دانشگاه شهید بهشتی",
+    "SN" : {
+      "linkedin" : "",
+      "twitter" : "",
+      "instagram" : "",
+      "facebook" : ""
+    },
+    "id" : "dr_ali_akbary",
+    "img" : "app/img/dr_ali_akbary.jpg"
+  }
+]

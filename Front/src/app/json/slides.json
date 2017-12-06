@@ -1,0 +1,29 @@
+[
+  {
+    "img":"app/img/1.jpg",
+    "title":"روز دانشکده",
+    "desc":"",
+    "link":"#",
+    "btn_color":"",
+    "btn_text":"",
+    "current":true
+  },
+  {
+    "img":"app/img/2.jpg",
+    "title":"شاه وب",
+    "desc":"",
+    "link":"#",
+    "btn_color":"yellow",
+    "btn_text":"وبسایت مسابقه",
+    "current":false
+  },
+  {
+    "img":"app/img/3.jpg",
+    "title":"وبکمپ 2",
+    "desc":"",
+    "link":"#",
+    "btn_color":"lightblue",
+    "btn_text":"درباره ی وبکمپ 2",
+    "current":false
+  }
+]

@@ -8,7 +8,7 @@ let JS_DIR = path.resolve(__dirname, 'src/app/js');
 let ENTRY = [
                     JS_DIR + '/what-input.js',
                     JS_DIR + '/foundation.min.js',
-                    APP_DIR + '/index.jsx'
+                    APP_DIR + '/container.jsx'
             ];
 
 module.exports = {
@@ -44,13 +44,13 @@ module.exports = {
             $: "jquery"
         }),
         new WatchIgnorePlugin([
-            path.resolve(__dirname, './node_modules/'),
-            path.resolve(__dirname, './src/app/js/')
+            path.resolve(__dirname, 'node_modules/'),
+            path.resolve(__dirname, 'src/app/js/')
         ])
-    ],
-    watch:true,
-    watchOptions: {
+    ]/*,
+    watch:true,*/
+/*    watchOptions: {
         aggregateTimeout: 300,
         poll:1000
-    }
+    }*/
 };

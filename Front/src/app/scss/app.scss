@@ -1,0 +1,287 @@
+$hex_icon_bg_color : #FFEA03;
+$hex_icon_color : #333;
+$prof_color : #eee;
+$input_width : 300px;
+$input_height : 40px;
+$input_font_size : 16px;
+$input_line_height : 50px;
+
+@font-face {
+  font-family: IRANSans;
+  font-style: normal;
+  font-weight: bold;
+  src: url('../font/IRANSans/woff/IRANSansWeb_Bold.woff') format('woff');  /* All Major Browsers */
+}
+@font-face {
+  font-family: IRANSans;
+  font-style: normal;
+  font-weight: 500;
+  src: url('../font/IRANSans/woff/IRANSansWeb_Medium.woff') format('woff');  /* All Major Browsers */
+}
+@font-face {
+  font-family: IRANSans_light;
+  font-style: normal;
+  font-weight: 300;
+  src: url('../font/IRANSans/woff/IRANSansWeb_Light.woff') format('woff');  /* All Major Browsers */
+}
+@font-face {
+  font-family: IRANSans;
+  font-style: normal;
+  font-weight: 200;
+  src: url('../font/IRANSans/woff/IRANSansWeb_UltraLight.woff') format('woff');  /* All Major Browsers */
+}
+@font-face {
+  font-family: IRANSans;
+  font-style: normal;
+  font-weight: normal;
+  src: url('../font/IRANSans/woff/IRANSansWeb.woff') format('woff');  /* All Major Browsers */
+}
+
+@font-face {font-family: "DayCare";
+  src: url("../font/DayCare.otf");
+}
+
+.honeycombs{
+  position: relative;
+  overflow: hidden;
+  max-width: 1200px;
+  margin: auto;
+  text-align: center;
+
+  & *{
+    box-sizing: border-box;
+  }
+
+  .honeycombs-inner-wrapper{
+    display: inline-block;
+    overflow: hidden;
+    width: 700px;
+    position: relative;
+    height: 1200px;
+  }
+
+  .comb {
+    position: absolute;
+    display: inline-block;
+    cursor: pointer;
+
+    .content{
+      position: absolute;
+      left: 25px;
+      right: 25px;
+      bottom: 35px;
+      z-index: 50;
+
+      .prof{
+        opacity: 0;
+        transition: all 0.5s ease;
+        font-family:"DayCare", monospace !important;
+        font-size:16px;font-style:normal;
+        -webkit-font-smoothing: antialiased;
+        -webkit-text-stroke-width: 0.2px;
+        -moz-osx-font-smoothing: grayscale;
+        letter-spacing: 2px;
+        color: $prof_color;
+      }
+
+      .name{
+        opacity: 0;
+        transition: all 0.5s ease;
+        font-family:"IRANSans", monospace !important;
+        font-size:16px;font-style:normal;
+        -webkit-font-smoothing: antialiased;
+        -webkit-text-stroke-width: 0.2px;
+        -moz-osx-font-smoothing: grayscale;
+        color: $prof_color;
+      }
+
+      .sn{
+        position: relative;
+        width: 120px;
+        left: 64px;
+      }
+
+      .sn__grid{
+        float: left;
+        margin-left: 5px;
+        transition: all ease;
+        opacity: 0;
+      }
+
+      .sn__grid:nth-child(1){
+        transform: scale(0.1);
+        transition-duration: 0.17s;
+      }
+      .sn__grid:nth-child(2){
+        transform: scale(0.4);
+        transition-duration: 0.34s;
+      }
+      .sn__grid:nth-child(3){
+        transform: scale(0.4);
+        transition-duration: 0.5s;
+      }
+    }
+
+    &:hover .content .sn__grid, &:hover .content .name, &:hover .content .prof{
+      opacity: 1;
+      transform: scale(1);
+    }
+
+    .hex{
+      transition: all 0.3s ease;
+    }
+
+    .hex path{
+      stroke: #333;
+      stroke-width: 1px;
+    }
+
+    &:hover .hex{
+      filter: url(../img/blur.svg#blur);
+      -webkit-filter: blur(2px);
+      filter: blur(2px);
+      filter:progid:DXImageTransform.Microsoft.Blur(PixelRadius='2');
+    }
+  }
+}
+
+.hex-icon{
+  width: 35px;
+  height: 40px;
+  position: relative;
+
+  a{
+    display: block;
+    width: 100%;
+    color: $hex_icon_color;
+    height: 100%;
+
+    path{
+      transition: all 0.2s;
+      fill: $hex_icon_bg_color;
+    }
+
+    i{
+      transition: all 0.2s;
+      position: absolute;
+      left: 50%;
+      top: 50%;
+      transform: translate(-50%,-50%);
+    }
+
+    &:hover{
+      color: $hex_icon_bg_color;
+    }
+
+    &:hover path{
+      fill: $hex_icon_color;
+      stroke-width: 1px;
+      stroke: $hex_icon_bg_color;
+    }
+  }
+}
+
+#main_container h1{
+  text-align: center;
+  font-family:"IRANSans_light", monospace !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-stroke-width: 0.2px;
+  -moz-osx-font-smoothing: grayscale;
+}
+.other_members{
+  margin-top: 200px;
+}
+
+.input_container{
+  position: relative;
+  width: $input_width;
+  margin: auto;
+
+  label{
+    margin-bottom: 10px;
+    font-size: 20px;
+    color: #FFEA03;
+  }
+
+  .input_container__bottom_border{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    user-select: none;
+    border-top: 3px solid #fff;
+    height: 0;
+    line-height: $input_line_height;
+    font-size: $input_font_size;
+    color: transparent;
+    max-width: 100%;
+  }
+
+  .input_container__input_field{
+    height: $input_height;
+    width: 100%;
+    min-width: 100%;
+    border: none;
+    outline: none;
+    border-bottom: 3px solid #999;
+    background-color: transparent;
+    line-height: $input_line_height;
+    font-size: $input_font_size;
+    padding: 0;
+    color: #fff;
+    transition: all 0.4s ease;
+    border-radius: 2px;
+    //font-family: Roboto Slab, sans-serif;
+
+    &:focus{
+
+      background-color: #444;
+
+      + .input_container__bottom_border{
+        border-top: 3px solid #FFEA03;
+      }
+    }
+  }
+}
+
+.contact_us{
+  background-color: #333;
+  font-family:"IRANSans", monospace !important;
+  font-size:16px;font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-stroke-width: 0.2px;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: right;
+  direction: rtl;
+  border-radius: 5px;
+
+  .name, .email{
+    margin: 50px 0;
+  }
+
+  .textarea{
+    textarea{
+      height: 200px;
+      margin-bottom: 50px;
+    }
+  }
+
+}
+
+@media screen and (min-width: 1200px) {
+  .contact_us{
+    max-width: 1100px;
+    margin: auto;
+  }
+  .contact_us .map, .contact_us .form{
+    float: right;
+    width: 50%;
+  }
+  .contact_us .map{
+    height: 582px;
+  }
+}
+.clear{
+  clear: both;
+}
