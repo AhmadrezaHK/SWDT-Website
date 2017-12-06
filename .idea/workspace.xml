@@ -2,37 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c70cd0c2-1f32-4e51-b2f0-f35cb6a30488" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/font/DayCare.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/img/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/img/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/img/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/img/ahmadreza.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/img/baharvand.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/img/masud.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/img/mohammad_sadegh.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/img/mohsen.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/img/shahi.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/css/base.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/img/blur.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/js/anime.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/js/demo1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/js/honeycombs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/js/imagesloaded.pkgd.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/json/members.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/json/slides.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/jsx/container.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/jsx/hex_icon.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/jsx/member.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/jsx/members_container.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/jsx/slide_show.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/app/jsx/text_input.jsx" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Front/src/app/css/app.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Front/src/app/img/1.jpg" afterPath="$PROJECT_DIR$/Front/src/app/img/1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/Ahmadreza_HK.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/Ahmadreza_HK.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/public/86ca0976de9b32b8af3698a0d74ea214.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/public/a83daff6a3fcaf7cf89f771c940e401f.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Front/src/public/bundle.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Front/src/app/scss/app.scss" afterPath="$PROJECT_DIR$/Front/src/app/scss/app.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Front/src/main.html" afterPath="$PROJECT_DIR$/Front/src/main.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Front/webpack.config.js" afterPath="$PROJECT_DIR$/Front/webpack.config.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -59,7 +32,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="app.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="app.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Front/src/app/scss/app.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="172">
@@ -138,10 +111,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Front/src/main.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
+            <state relative-caret-position="768">
               <caret line="32" column="20" lean-forward="false" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
               <folding />
             </state>
@@ -389,7 +362,7 @@
       <workItem from="1512221497125" duration="747000" />
       <workItem from="1512384668504" duration="6360000" />
       <workItem from="1512405387525" duration="11073000" />
-      <workItem from="1512464473024" duration="15400000" />
+      <workItem from="1512464473024" duration="16686000" />
     </task>
     <task id="LOCAL-00001" summary="add foundation">
       <created>1507626194984</created>
@@ -433,11 +406,18 @@
       <option name="project" value="LOCAL" />
       <updated>1507653917556</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary=":)">
+      <created>1512551437949</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1512551438182</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92326000" />
+    <option name="totallyTimeSpent" value="93612000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -450,9 +430,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.238653" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.238653" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -501,7 +480,8 @@
     <MESSAGE value="fix webpack watch" />
     <MESSAGE value="add url-loader and SCSS" />
     <MESSAGE value="add iran-sans and font-awesome" />
-    <option name="LAST_COMMIT_MESSAGE" value="add iran-sans and font-awesome" />
+    <MESSAGE value=":)" />
+    <option name="LAST_COMMIT_MESSAGE" value=":)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -715,6 +695,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="2" column="39" lean-forward="false" selection-start-line="2" selection-start-column="39" selection-end-line="2" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -730,6 +711,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-193">
           <caret line="10" column="39" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#25#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -737,6 +721,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
           <caret line="18" column="17" lean-forward="false" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#25#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -744,6 +731,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
           <caret line="24" column="26" lean-forward="false" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -770,14 +758,6 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Front/src/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="32" column="20" lean-forward="false" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -845,6 +825,14 @@
           <folding>
             <element signature="e#3354#3886#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Front/src/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="32" column="20" lean-forward="false" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
